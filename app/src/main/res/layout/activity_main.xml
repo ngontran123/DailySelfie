@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+  >
+  <ListView
+      android:id="@+id/daily_selfie"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:layout_margin="@dimen/vertical_margin"
+      android:divider="@color/transparent"
+      android:dividerHeight="@dimen/item_margin"
+      android:background="@color/list_view_background"
+></ListView>
+
+
+</LinearLayout>

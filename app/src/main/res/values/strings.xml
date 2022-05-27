@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DailySelfie</string>
+    <string name="action_camera">Camera icon</string>
+    <string name="action_delete_selected">Delete</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="title_activity_detail">Daily Selfie</string>
+</resources>
